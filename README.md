@@ -1,1 +1,2 @@
-CAD | Programming 
+## Pursuing Engineering
+CAD Design | Programming
