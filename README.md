@@ -1,4 +1,4 @@
-![Distant Stars](images/profile.png)
+![Distant Stars](distant%20stars%204k.png)
 
 ## Pursuing Engineering
 
