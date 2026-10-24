@@ -1,2 +1,2 @@
 ## Pursuing Engineering
-CAD Design | Programming
+Autodesk Fusion 360 | C | C++ | 
